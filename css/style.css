@@ -1,0 +1,14 @@
+body {
+  background-color: #778899;
+  font-family: sans-serif;
+}
+.header {
+  background: #708090;
+}
+.text-success {
+  background-color: #708090;
+  font-size: 35px;
+}
+.game-name {
+  color: #40E0D0;
+}

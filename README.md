@@ -1,5 +1,32 @@
-# project-one
-First Sparta project
+================================================== BEAT THE CLOCK ==========================================================
+
+*Initial project planning:
+When the project was first displayed to us, I instantly thought about doing Break out as it is a childhood favourite game, however I also remembered about the fact that from time to time I like to practice my typing skills on keyboard speed games and decided to shift my plans towards that. 
+
+*Summary:
+In order to play, the user has to select the difficulty first. There are 3 different levels which are - easy, medium and redbull. Each level you have a certain amounts of seconds to type the given word on the screen and the harder the level is, the less seconds you have to type. Afterwards, press "Start" and place mouse cursor on the empty text bar to start playing. In order to play again, press "Reset" and repeat process of selecting difficulty and pressing "Start" button.
+
+*Recommendations:
+Desktop users: In order to play, it is preferable you have two hands and also an operating keyboard and mouse, in order to press on the box where you type the words.
+Mobile users: At the moment, there is no development for mobile platforms and this is one function that I would add in future developments.
+
+
+*Development Experience
+Despite the simplicity of the game that is displayed to a user, it was actually quite a challenge for a beginner as myself to implement my new knowledge and experience to develop the game. As there are not many examples of this game on the webb, I had to do a lot of research on the Internet to find the right way to develop the game to work and add as much new features and entertainment as possible in this time. Due to being new to developing, I managed to see that my other colleagues build the simple features and game first, and then had a plan on what features to implement and how much time it would take them to do so. After exchanging information and advice from them and my tutor, I was able to learn as I go and learn different ways to implement each feature of the game. 
+I was enshuring to test after each feature or function to see if it works and try to find the mistakes first and then move on to the next objective. I was trying also to put as much as comments and explanation into my code as possible, in order to when I or my tutor comes back to it for reference, to be able to understand the information easier. As mentioned, the webb was very helpful when tackling various issues and I can say with confidence that this project has allowed me to gain significant experience in my research skills and being able to understand the issue and how to tackle it. I learned that there are different ways to solve a problem and also when it comes to development and testing programmes or games, you have to learn to think more of the machine's perspective and what it sees rather than what the user sees. In future, I will do my best to organise my plans a lot better and devide tasks in a simplest way as possible, in order to proceed to each step after completing the previous one. 
+
+*Bugs
+As I did not fully have time to get rid of all the minor bugs of the game, some of them still exist:
+ - after selecting the difficulty and starting the game, when you type the first word you have 6 seconds remaining, instead of how many are set for each difficulty. 
+ - after pressing "Reset" the "difficulty" tab moves up and touches the typing box. 
+ 
+ 
+*Future improvements
+If I could improve the game in the future, I would probably add more sounds to make it more interactive, I would have a box which displays the words that are suppose to come after the one you type so the user is able to have better experience and maybe even set up a level system where after each level the words get harder and the timer is reduced more.
+
+
+
+*Notes:
 
 Checklist:
 .1 Create subfolder structure

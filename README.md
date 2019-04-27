@@ -1,4 +1,4 @@
-=========================== BEAT THE CLOCK ==========================================================
+=========================== BEAT THE CLOCK ============================
 
 *Initial project planning:
 When the project was first displayed to us, I instantly thought about doing Break out as it is a childhood favourite game, however I also remembered about the fact that from time to time I like to practice my typing skills on keyboard speed games and decided to shift my plans towards that. 

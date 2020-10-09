@@ -23,7 +23,7 @@ As I did not fully have time to get rid of all the minor bugs of the game, some 
  
  
 *Future improvements
-If I could improve the game in the future, I would probably add more sounds to make it more interactive, I would have a box which displays the words that are suppose to come after the one you type so the user is able to have better experience and maybe even set up a level system where after each level the words get harder and the timer is reduced more.
+If I could improve the game in the future, I would probably add more sounds to make it more interactive, I would have a box which displays the words that are suppose to come after the one you type so the user is able to have better experience and maybe even set up a level system where after each level the words get harder and the timer is reduced more. As well as create an API that draws the data out of another website instead of having a hardcoded array of randomly generated words.
 
 
 

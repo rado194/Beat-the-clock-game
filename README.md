@@ -14,8 +14,7 @@ Desktop users: In order to play, it is preferable you o an operating keyboard an
  Due to being new to developing, I managed to see that my other colleagues build the simple features and game first, and then had a plan on what features to implement and how much time it would take them to do so. After exchanging information and advice from them and my tutor, I was able to learn as I go and learn different ways to implement each feature of the game. 
 I was enshuring to test after each feature or function to see if it works and try to find the mistakes first and then move on to the next objective. I was trying also to put as much as comments and explanation into my code as possible, in order to when I or my tutor comes back to it for reference, to be able to understand the information easier. As mentioned, the webb was very helpful when tackling various issues and I can say with confidence that this project has allowed me to gain significant experience in my research skills and being able to understand the issue and how to tackle it. I learned that there are different ways to solve a problem and also when it comes to development and testing programmes or games, you have to learn to think more of the machine's perspective and what it sees rather than what the user sees. 
 
-* Bugs
-As I did not fully have time to get rid of all the minor bugs of the game, some of them still exist:
+* Bugs:
  - after selecting the difficulty and starting the game, when you type the first word you have 6 seconds remaining, instead of how many are set for each difficulty. 
  - after pressing "Reset" the "difficulty" tab moves up and touches the typing box. 
  

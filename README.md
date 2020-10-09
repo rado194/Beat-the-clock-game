@@ -9,8 +9,6 @@ In order to play, the user has to select the difficulty first. There are 3 diffe
 * Recommendations:
 Desktop users: In order to play, it is preferable you o an operating keyboard and mouse, in order to press on the box where you type the words and initiate the starter.
 
-Mobile users: At the moment, there is no development for mobile platforms and this is one function that I would add in future developments.
-
 
 * Development Experience:
  Due to being new to developing, I managed to see that my other colleagues build the simple features and game first, and then had a plan on what features to implement and how much time it would take them to do so. After exchanging information and advice from them and my tutor, I was able to learn as I go and learn different ways to implement each feature of the game. 
@@ -23,7 +21,7 @@ As I did not fully have time to get rid of all the minor bugs of the game, some 
  
  
 * Future improvements
-If I could improve the game in the future, I would probably add more sounds to make it more interactive, I would have a box which displays the words that are suppose to come after the one you type so the user is able to have better experience and maybe even set up a level system where after each level the words get harder and the timer is reduced more. As well as create an API that draws the data out of another website instead of having a hardcoded array of randomly generated words.
+If I could improve the game in the future, I would probably add more sounds to make it more interactive, I would have a box which displays the words that are suppose to come after the one you type so the user is able to have better experience and maybe even set up a level system where after each level the words get harder and the timer is reduced more. At the moment, there is no development for mobile platforms and this is one function that I would add in future developments. As well as create an API that draws the data out of another website instead of having a hardcoded array of randomly generated words.
 
 
 

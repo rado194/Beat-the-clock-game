@@ -8,6 +8,7 @@ In order to play, the user has to select the difficulty first. There are 3 diffe
 
 *Recommendations:
 Desktop users: In order to play, it is preferable you o an operating keyboard and mouse, in order to press on the box where you type the words and initiate the starter.
+
 Mobile users: At the moment, there is no development for mobile platforms and this is one function that I would add in future developments.
 
 

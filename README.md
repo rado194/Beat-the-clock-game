@@ -7,7 +7,7 @@ When the project was first displayed to us, I instantly thought about doing Brea
 In order to play, the user has to select the difficulty first. There are 3 different levels which are - easy, medium and redbull. Each level you have a certain amounts of seconds to type the given word on the screen and the harder the level is, the less seconds you have to type. Afterwards, press "Start" and place mouse cursor on the empty text bar to start playing. In order to play again, press "Reset" and repeat process of selecting difficulty and pressing "Start" button.
 
 * Recommendations:
-Desktop users: In order to play, it is preferable you o an operating keyboard and mouse, in order to press on the box where you type the words and initiate the starter.
+Desktop users: In order to play, it is preferable to have an fast typing keyboard and mouse, in order to press on the box where you type and initiate the starter.
 
 
 * Development Experience:

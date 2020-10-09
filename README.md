@@ -15,11 +15,12 @@ Desktop users: In order to play, it is preferable you o an operating keyboard an
 I was enshuring to test after each feature or function to see if it works and try to find the mistakes first and then move on to the next objective. I was trying also to put as much as comments and explanation into my code as possible, in order to when I or my tutor comes back to it for reference, to be able to understand the information easier. As mentioned, the webb was very helpful when tackling various issues and I can say with confidence that this project has allowed me to gain significant experience in my research skills and being able to understand the issue and how to tackle it. I learned that there are different ways to solve a problem and also when it comes to development and testing programmes or games, you have to learn to think more of the machine's perspective and what it sees rather than what the user sees. 
 
 * Bugs:
- - after selecting the difficulty and starting the game, when you type the first word you have 6 seconds remaining, instead of how many are set for each difficulty. 
- - after pressing "Reset" the "difficulty" tab moves up and touches the typing box. 
+  after selecting the difficulty and starting the game, when you type the first word you have 6 seconds remaining, instead of how many are set for each difficulty. 
+  after pressing "Reset" the "difficulty" tab moves up and touches the typing box. 
  
  
-* Future improvements
+* Future improvements:
+
 If I could improve the game in the future, I would probably add more sounds to make it more interactive, I would have a box which displays the words that are suppose to come after the one you type so the user is able to have better experience and maybe even set up a level system where after each level the words get harder and the timer is reduced more. At the moment, there is no development for mobile platforms and this is one function that I would add in future developments. As well as create an API that draws the data out of another website instead of having a hardcoded array of randomly generated words.
 
 
